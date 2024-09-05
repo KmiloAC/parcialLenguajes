@@ -5,12 +5,12 @@ Para ejecutar el pograma debes de entrar a la ubicación de la carpeta y ejecuta
 EJEMPLO:
 
 ```
-    python3 APD.py <archivo>
+python3 APD.py <archivo>
 ```
 
-EJEMPLO DE USO:
+EJEMPLO DE USO con los archivos que tengo de pruebas de caso:
 
-'''
-    python3 APD.py ej1.txt
-'''
+```
+python3 APD.py ej1.txt
+```
 

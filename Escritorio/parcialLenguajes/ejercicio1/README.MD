@@ -2,13 +2,13 @@ Este programa en Python procesa un archivo de texto para identificar y clasifica
 
 Para ejecutar el pograma debes de entrar a la ubicación de la carpeta y ejecutar el programa con el siguiente comando 
 
-EJEMPLO:
+**EJEMPLO:**
 
 ```
 python3 APD.py <archivo>
 ```
 
-EJEMPLO DE USO con los archivos que tengo de pruebas de caso:
+**EJEMPLO DE USO** con los archivos que tengo de pruebas de caso:
 
 ```
 python3 APD.py ej1.txt

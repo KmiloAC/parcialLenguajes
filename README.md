@@ -13,3 +13,5 @@ FLEX: flex 2.6.4 <br>
 ANTLR: 4.13.2 <br>
 JAVA: java 22.0.2 2024-07-16, Java(TM) SE Runtime Environment (build 22.0.2+9-70) <br>
 AWK: mawk 1.3.4 20240123
+
+Como tambien debemos de tener en cuenta que todos los ejercicios fueron compilados, por lo mismo se encuentran las breves instrucciones de como se ejecuta el compilado. Ahora si dado caso no llega a funcionar se recomienda volver a compilar los archivos

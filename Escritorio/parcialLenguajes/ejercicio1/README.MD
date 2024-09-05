@@ -14,3 +14,15 @@ python3 APD.py <archivo>
 python3 APD.py ej1.txt
 ```
 
+**SALIDA ESPERADA:***
+
+```
+REAL
+SUMA
+ENTERO
+INCR
+No se encontraron coincidencias.
+ENTERO
+REAL
+REAL
+```

@@ -4,10 +4,9 @@ Para ejecutar el pograma debes de entrar a la ubicación de la carpeta y ejecuta
 
 EJEMPLO:
 
-'''python
-def ejemplo():
-    print("Hola, mundo!")
-'''
+```
+    python3 APD.py <archivo>
+```
 
 EJEMPLO DE USO:
 

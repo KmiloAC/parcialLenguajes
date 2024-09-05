@@ -1,7 +1,7 @@
 # Primer Parcial
 Primer parcial de Lenguajes de programación.
 
-Realizado por: Camilo Andres López
+Realizado por: Camilo Andres López Contreras
 
 En cada carpeta enumerada se encuentra el ejercicio resuelto de cada uno de los enunciados propuestos. Donde cada uno de estos tendra un README que mostrará cual es el proceso de manera muy resumida para que cada uno de los ejercicios funcione. Cabe aclarar que se tiene que tener bien instalados los programas como lo son: C, Python, Flex, ANTLR, JAVA y por último AWK. <br><br>
 

@@ -3,8 +3,10 @@ Este programa en Python procesa un archivo de texto para identificar y clasifica
 Para ejecutar el pograma debes de entrar a la ubicación de la carpeta y ejecutar el programa con el siguiente comando 
 
 EJEMPLO:
-'''
-	python3 APD.py <nombre_del_archivo> 
+
+'''python
+def ejemplo():
+    print("Hola, mundo!")
 '''
 
 EJEMPLO DE USO:

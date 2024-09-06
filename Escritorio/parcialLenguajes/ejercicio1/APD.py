@@ -23,8 +23,8 @@ def main():
     expressions = {
         r'\+': "SUMA",
         r'\+\+': "INCR",
-        r'[0-9]+': "NUMERO",
-        r'([0-9]+)\.([0-9]+)': "NUMERO DECIMAL"
+        r'[0-9]+': "ENTERO",
+        r'([0-9]+)\.([0-9]+)': "REAL"
     }
     
     # Procesar cada línea del archivo

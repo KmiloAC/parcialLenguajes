@@ -14,7 +14,7 @@ python3 APD.py <archivo>
 python3 APD.py ej1.txt
 ```
 
-**SALIDA ESPERADA:***
+**SALIDA ESPERADA:**
 
 ```
 REAL

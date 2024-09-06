@@ -4,10 +4,20 @@ Programa que reconoce una palabra o llave que pasamos con parametro, como en est
 
 2-Se debe de ejecutar el siguiente comando en la consola:
 
-'''
+´´´
 
 ./miprograma archivo.txt manzana
 
-'''
+´´´
 
-O en general es ./miprograma <archivo> <key>
+O en general es 
+
+´´´
+./miprograma <archivo> <key>
+´´´
+
+**Salida esperada:**
+
+´´´
+Manzana se repite 5 veces en el texto
+´´´

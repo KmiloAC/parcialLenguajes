@@ -21,3 +21,6 @@ Donde en cada uno de los archivos tenemos numeros aleatorios y la salida nos dir
 929 es primo
 499 es primo
 ```
+
+
+Edit: El primer ej.1 es para demostracion, nuestro archivo que tiene 1000 elementos es el ej2, además me falto que fueran 1000, asi que se arreglo eso
